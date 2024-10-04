@@ -32,11 +32,12 @@ Welcome to Sushiman, a sushi-themed website designed to offer users a beautiful 
 - **Newsletter Subscription**: Users can subscribe to the newsletter for offers and updates.
 - **Japanese Theming**: Custom-designed graphics and fonts to maintain an authentic Japanese aesthetic.
 
-## Setup Instructions
+## View Project
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/SUSHREE-0312/sushiman.git
+To view this project, click the following link:
+
+[View Sushiman Project](http://127.0.0.1:5500/SUSHIMAN/project_html_css_website-main/index.html)
+
 
 
 
